@@ -118,13 +118,13 @@ document.addEventListener('DOMContentLoaded', () => {
     const messages = [
         "You don't have to be okay all at once.",
         "Pelan-pelan. Even slow progress is still movement.",
-        "Your thesis is important, but your mind matters too.",
+        "Your goals are important, but your mind matters too.",
         "You are not behind. You are on a path that is heavier than it looks.",
         "Hari ini berat, but you are still here. That matters.",
         "Do not confuse exhaustion with failure.",
         "Kamu nggak harus selalu kuat. Sometimes being honest about being tired is already brave.",
         "One paragraph is progress. One page is progress. One breath is progress.",
-        "S2 is not for the weak, and look at you, still trying.",
+        "This journey is not for the weak, and look at you, still trying.",
         "You are allowed to pause without explaining yourself to everyone.",
         "Not everything has to be fixed tonight.",
         "You are doing better than your anxious brain is telling you."
